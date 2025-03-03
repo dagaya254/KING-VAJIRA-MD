@@ -1,4 +1,5 @@
 /**
+K༙྇I༙྇N༙྇G༙྇ D༙྇A༙྇G༙྇A༙྇Y༙྇A༙྇ - M༙྇D༙྇
 
                                                             
  Copyright (C) 2023.
@@ -33,7 +34,7 @@ async (Void, citel, text, { isCreator }) => {
 
     updating = true;
     let asciiBorder = '╔══════════════════════════╗\n';
-    asciiBorder += '║    Updater - DARK VAJIRA MD    ║\n';
+    asciiBorder += '║    Updater - KING DAGAYA MD     ║\n';
     asciiBorder += '╚══════════════════════════╝\n';
 
     // Create a loading bar
@@ -59,7 +60,7 @@ async (Void, citel, text, { isCreator }) => {
 
     // After the update process, send the final message
     const finalMessage = {
-        text: `${asciiBorder}📥vajira Update finished📥.`,
+        text: `${asciiBorder}📥Dagaya Update finished📥.`,
         footer: 'UPDATER',
         headerType: 4
     };
